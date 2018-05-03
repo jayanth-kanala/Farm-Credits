@@ -1,0 +1,14 @@
+GL URLS
+http://eve.gameloft.com:20001/config/1781%3A53961%3A2.4.3d%3Awindows%3Awindows8/datacenters/eur/urls
+http://vgold-eur.gameloft.com:20000/
+http://vgold-eur.gameloft.com:20000/1781:53961:2.4.3d:windows:windows8/locate?service=auth
+http://gdid.gameloft.com/assign_global_id/?cid=1781%3A53961%3A2.4.3d%3Awindows%3Awindows8&source=Gaia_1.1.3&device_type=w8&global_device_id=5562342602&hdidfv=bc39902b-1d0a-4ff9-9a93-881d1ccf30fa&waid=91f76f3a4354c99bb2983b9d36a90779
+interstatic05.gameloft.com/gold/1781/game_object_1458360450.56
+interstatic05.gameloft.com/gold/1781/tournaments_calendar_1462356283.99
+https://game-portal-eur.gameloft.com/win/1781/public/api/2.4.3d/scripts/general/sync_all.php
+https://eur-olympus.gameloft.com/leaderboards/asc/asphalt8_leaderboard_ghost_event_174878?access_token=06741a2a-ebc9-11e4-851c-b8ca3a60b4c8%2Calert%20auth%20config%20leaderboard_ro%20message%20social%20storage%20storage_ro%2C1781%3A53961%3A2.4.3d%3Awindows%3Awindows8%2C1463875642.970655%2Cxboxlive%3A2533274985051266%2C5641457858%2Ceur~gold%7C20a3b01317ab61a05b8335f29578faed&limit=100
+
+leaderboard
+eur-olympus.gameloft.com:443
+eur-olympus.gameloft.com/1781:53961:2.4.3d:windows:windows8/locate?service=leaderboard
+my user : user=caa6a3db005eb96d67bcb7b1e94d769f
